@@ -1,4 +1,8 @@
-/* 
+/**
+ * =====================================================
+ *              PROBLEM: REMOVE ELEMENT FROM ARRAY
+ * =====================================================
+ * 
  * Given an integer array nums and an integer val, remove all occurrences 
  * of val in-place. The function should return the new length of the array 
  * after removing all occurrences of val.
